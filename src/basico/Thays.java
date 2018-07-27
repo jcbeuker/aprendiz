@@ -10,5 +10,4 @@ public class Thays {
 			System.out.println ( l+" - Thays, eu te amo!");
 		}
 	}
-
 }
